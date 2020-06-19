@@ -2,7 +2,7 @@
 P2
 <html>
 <head>
-<title>文字+圖片練習</title>
+<title>期末作業-2</title>
 </head>
 <body bgcolor="#CD8500">
 <h1>提名爭議 黃健庭：國民黨若不支持監院副院長提名 寧可退出</h1>
